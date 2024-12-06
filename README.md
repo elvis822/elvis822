@@ -1,6 +1,9 @@
+# About Me 👋
+Hi there! I’m an entry-level Data Scientist skillful in Python, ML algorithms, model building, advanced data analysis and visualization.
+Here's more about me: 
 - 👋 Hi, I’m @elvis822
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Htnl, CSs, Java, Android
+- 🌱 I’m currently learning Html, CSS, Java, Android
 - 💞️ I’m looking to collaborate on Internshala
 - � Reach me at my gmail: pabloelvis341@gmail.com
 
